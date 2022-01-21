@@ -1,6 +1,9 @@
 # DRDA-Net
 Dense Residual Dual-shuffle Attention Net (DRDA-Net) : an efficient framework for breast cancer detection. Overall workflow of the proposed framework is shown below- ![flow diagram](https://github.com/SohamChattopadhyayEE/DRDA-Net/blob/main/figures/Overall%20flow%20diagram.jpg)
 
+## The Model
+![model](https://github.com/SohamChattopadhyayEE/DRDA-Net/blob/main/figures/Model.JPG)
+
 ## Dependencies 
     pip install -r requirements.txt
 
