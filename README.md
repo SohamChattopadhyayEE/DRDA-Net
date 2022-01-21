@@ -2,6 +2,9 @@
 Dense Residual Dual-shuffle Attention Net (DRDA-Net) : an efficient framework for breast cancer detection. Overall workflow of the proposed framework is shown below- ![flow diagram](https://github.com/SohamChattopadhyayEE/DRDA-Net/blob/main/figures/Overall%20flow%20diagram.jpg)
 
 ## The Model
+- The entire DRDA-Net model in comprised of several building blocks. The most elementary building block is the `Dual-shuffle Residual Block` or the `DRB`. 
+- In addition to that, there are the `Channel Attention (CA)` and the `Residual Dual-shuffle Block (RDAB)`. 
+- The illustrative diagram of the proposed DRDA-Net is shown below-
 ![model](https://github.com/SohamChattopadhyayEE/DRDA-Net/blob/main/figures/Model.JPG)
 
 ## Dependencies 
