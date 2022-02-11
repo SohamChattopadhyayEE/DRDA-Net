@@ -11,7 +11,7 @@ Dense Residual Dual-shuffle Attention Net (DRDA-Net) : an efficient framework fo
     pip install -r requirements.txt
 
 ## Arguments
-    D:\directory> python main.py --help
+    D:\directory> python train.py --help
     usage: main.py [-h] [-t_path TRAIN_PATH] [-v_path VALIDATION_PATH] [-p_path PLOT_PATH] [-m_path MODEL_PATH] [-bs BS] [-n N_CLASS] [-lr LR] [-e EPOCH]
                    [-n_e_block NUM_ELEMENTARY_BLOCKS]
 
