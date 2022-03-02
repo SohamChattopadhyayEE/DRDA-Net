@@ -36,4 +36,4 @@ Dense Residual Dual-shuffle Attention Net (DRDA-Net) : an efficient framework fo
       -n_e_block NUM_ELEMENTARY_BLOCKS, --num_elementary_blocks NUM_ELEMENTARY_BLOCKS
                             number of elementary blocks
 ## Code Execution
-    D:\directory> python main.py
+    D:\directory> python app.py
