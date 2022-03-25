@@ -44,4 +44,6 @@
 - Run the `train.py` and save the trained weights. It is to be noted that the weights has to be saved in a seperated directory nemed "weights". 
 - Run `D:\directory> python app.py`. 
 - An url similar to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) will be generated which needs to be opened via local browser.
+- An interface same as that of the GIF[The app] will appear. 
+- There upload the image and click on the `upload` button.  
     
